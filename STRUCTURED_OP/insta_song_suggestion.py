@@ -37,7 +37,7 @@ chain = prompt | model | parser
 
 st.set_page_config(page_title="Insta Song Suggestor", layout="centered")
 
-st.title(" AI Instagram Song Suggestor")
+st.title(" Shambavi's personalized AI Instagram Song Suggestor")
 st.write("Find the perfect song for your next Reel in seconds!")
 
 # User Inputs
