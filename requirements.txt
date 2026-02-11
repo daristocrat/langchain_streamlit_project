@@ -32,3 +32,4 @@ youtube-transcript-api
 
 langchain-text-splitters
 faiss-cpu
+langchain-community
