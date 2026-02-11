@@ -29,3 +29,5 @@ langchain-groq
 groq
 
 youtube-transcript-api
+
+langchain-text-splitters
