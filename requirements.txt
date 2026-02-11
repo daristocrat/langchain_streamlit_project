@@ -27,3 +27,5 @@ scikit-learn
 
 langchain-groq
 groq
+
+youtube-transcript-api
