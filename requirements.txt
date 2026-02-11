@@ -31,3 +31,4 @@ groq
 youtube-transcript-api
 
 langchain-text-splitters
+faiss-cpu
